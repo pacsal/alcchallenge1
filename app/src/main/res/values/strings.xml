@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC Challenge 1</string>
+    <string name="profile_name">Pascal Msoka</string>
+    <string name="profile_track">Track:\t\t\t Android</string>
+    <string name="profile_country">Country:\t\t\t Tanzania</string>
+    <string name="profile_email">Email:\t\t\t pascal.msoka@gmail.com</string>
+    <string name="profile_phone">Phone Number:\t\t\t +255654930993</string>
+    <string name="profile_slack_username">Slack Username:\t\t\t @Pacsal</string>
+    <string name="img_description_picture">Profile Picture</string>
+    <string name="profile_label">My Profile</string>
+    <string name="about_label">About ALC</string>
+    <string name="about_negative_text">No, Go back</string>
+    <string name="about_positive_text">Yes, Continue</string>
+    <string name="about_ssl_warning_text">SSL Certificate Warning</string>
+    <string name="welcome_text_main">Welcome to ALC 4.0</string>
+</resources>
